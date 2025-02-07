@@ -1,6 +1,23 @@
 # Project-489
 3.6 MW Small Scale Solar Power Project by M/s Lagnam Spintex Ltd.
 
+Country : India
+
+State : Rajasthan
+
+Village : Swaroopganj
+
+District : Bhilwara
+
+The project site is in village Swaroopganj of Bhilwara district, Rajasthan. The project site is well
+connected from airport and railway station. The geographic co-ordinates of the project location
+have been given below.
+
+Latitude : 25°14'02.4"N
+
+Longitude : 74°37'59.1"E
+
+
 Scale of the project activity Small Scale
 
 Project participants M/s Lagnam Spintex Ltd. (Project Owner)
@@ -29,7 +46,7 @@ The purpose of the proposed project activity is to generate electricity using a 
 source of energy i.e., solar radiation. The proposed project activity of 3.6 MW (i.e. 2.4 MW, 1.2 MW)
 is installation and operation of solar power plant at Bhensdad village in Bhilwara district in the state of
 Rajasthan are per details listed below:
-
+_____________
 Village Tehsil District / Type /Total installed capacity in (AC) MW / Commissioning date
 ______________
 Swaroopganj Hamirgarh Bhilwara / Rooftop mounted/ 2.4 /09/09/2023
