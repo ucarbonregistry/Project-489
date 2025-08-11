@@ -65,9 +65,9 @@ Vintage Year: 2023
 
 Quantity: 814
 ___________
-Serial Number: 0001-000976-003581-UCR-CoU-IN-489-01012024-31122024
+Serial Number: 0001-000815-003581-UCR-CoU-IN-489-01012024-31122024
 
 Vintage Year: 2024
 
-Quantity: 2606
+Quantity: 2767
 _______________
