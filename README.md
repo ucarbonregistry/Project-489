@@ -53,3 +53,21 @@ Swaroopganj Hamirgarh Bhilwara / Rooftop mounted/ 2.4 /09/09/2023
 _______________
 Swaroopganj Hamirgarh Bhilwara / Rooftop mounted / 1.2 / 13/11/2024
 ________________
+ISSUANCE DATE: 11/08/2025
+
+QTY: 3581
+
+MP-01: 09/09/203-31/12/2024
+____________
+Serial Number: 0001-000001-000814-UCR-CoU-IN-489-09092023-31122023
+
+Vintage Year: 2023
+
+Quantity: 814
+___________
+Serial Number: 0001-000976-003581-UCR-CoU-IN-489-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 2606
+_______________
